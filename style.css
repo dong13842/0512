@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f0f0f0;
+}
+
+canvas {
+  border: 2px solid #000;
+  margin: 20px auto;
+  display: block;
+  background-color: #fff;
+}
+
+#game-over-form {
+  margin: 20px;
+}
+
+.hidden {
+  display: none;
+}
+
+#leaderboard {
+  list-style-type: none;
+  padding: 0;
+}
+
